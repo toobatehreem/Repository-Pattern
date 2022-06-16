@@ -1,0 +1,14 @@
+C:\Users\Tooba Tehreem\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Tooba Tehreem\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Tooba Tehreem\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Tooba Tehreem\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Tooba Tehreem\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Tooba Tehreem\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\sheiktoo\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
